@@ -1,5 +1,5 @@
 {
-	"name": "Raganork",
+	"name": "✰⃪☘ₛͥₑͣₓ⃪ͫᵞᴋɪɴɢ☇ᴋᴀᴅᴀғɪ🌙⃯™",
 	"description": "Multi-functional WhatsApp bot project",
 	"keywords": [
 		"whatsapp",
@@ -41,7 +41,7 @@
         "STICKER_DATA": {
             "description": "Name of stickers created using bot. Can also split using ;",
             "required": true,
-            "value":"ʀᴀɢᷨᴀͦɴͭᴏʀᴋ"
+            "value":"✰⃪☘ₛͥₑͣₓ⃪ͫᵞᴋɪɴɢ☇ᴋᴀᴅᴀғɪ🌙⃯™"
         },
         "CHATBOT": {
             "description": "AI chatbot",
